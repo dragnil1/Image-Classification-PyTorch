@@ -25,6 +25,7 @@ embedded into network structures for end-to-end training.
 
 ShuffleNet achieves 13x speedup over AlexNet with comparable accuracy.
 """
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
